@@ -53,3 +53,6 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+cinderella:
+  schedule_url: ""
